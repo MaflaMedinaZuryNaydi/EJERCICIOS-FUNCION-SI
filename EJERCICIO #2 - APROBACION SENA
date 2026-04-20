@@ -1,0 +1,15 @@
+Algoritmo APROBACION_DEL_SENA
+	  ESCRIBIR "INGRESE SU NOTA DE 0 A 5"
+	  LEER NOTA
+	
+	  SI (NOTA >= 3.5) Entonces
+		  
+		  ESCRIBIR "COMPENTENCIA ALCANZADA"
+		  
+	  SINO
+		  
+		  ESCRIBIR "CONPENTENCIA NO ALCANZADA"
+		  
+	  FinSi 
+	
+FinAlgoritmo
